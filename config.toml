@@ -18,10 +18,7 @@ dateFormat = "Jan 2, 2006"
   [params.home]
   introHeight = "fullheight"
  
-  localTime = true
-  timeZone = "America/Los_Angeles"
-  timeFormat = "en-US"
-
+ì
 
 
   [[params.social]]
