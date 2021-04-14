@@ -32,6 +32,27 @@ dateFormat = "Jan 2, 2006"
 tag = "tags"
 series = "series"
 
+
+ [[menu.main]]
+     name    = "Contact"
+     url     = "#contact"
+     weight  = 4
+ [[menu.main]]
+     name    = "What can you do"
+     url     = "#what"
+     weight  = 2
+ [[menu.main]]
+     name    = "How to use it"
+     url     = "#how"
+     weight  = 3
+
+[[menu.main]]
+     name    = "Home"
+     url     = "/"
+     weight  = 1
+
+
+
 [markup]
 defaultMarkdownHandler = "goldmark"
 
