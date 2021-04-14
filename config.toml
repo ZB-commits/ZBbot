@@ -3,6 +3,7 @@ theme = "introduction"
 DefaultContentLanguage = "en"
 themesDir = "themes"
 publishDir = "public"
+title = "Amazon Trackers Bot"
 
 [params]
 themeStyle = "auto"
