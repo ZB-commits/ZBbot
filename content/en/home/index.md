@@ -1,5 +1,5 @@
 ---
-title: 'Hi, I''m I’m AmazonTrackersBot'
+title: 'Hi, I''m AmazonTrackersBot'
 headless: true
 ---
 
