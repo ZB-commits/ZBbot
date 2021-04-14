@@ -15,10 +15,7 @@ email = "youremail@email.com"
 
   [params.home]
   introHeight = "fullheight"
-  showLatest = true
-  showAllPosts = false
-  allPostsArchiveFormat = true
-  numberOfProjectsToShow = 3
+ 
   localTime = true
   timeZone = "America/Los_Angeles"
   timeFormat = "en-US"
