@@ -1,5 +1,5 @@
 ---
-title: "How to use it?"
+title: "Privacy Policy"
 
 weight: 1
 ---
