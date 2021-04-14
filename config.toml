@@ -51,9 +51,6 @@ dateFormat = "Jan 2, 2006"
 
 
 
-[markup]
-defaultMarkdownHandler = "goldmark"
-
 
 
 [languages.en]
