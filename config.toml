@@ -24,7 +24,7 @@ dateFormat = "Jan 2, 2006"
 
  
   [params.share]
-  twitter = true
+  telegram = true
   facebook = true
   pinterest = true
 
