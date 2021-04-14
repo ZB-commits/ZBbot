@@ -54,10 +54,7 @@ dateFormat = "Jan 2, 2006"
   icon_pack = "fab"
   html_attributes = 'rel="me"'
 
-    [[params.social]]
-        url   = "https://t.me/AmazonTrackersBot"
-        icon  = "telegram" # icon name without the 'fa-'
-        icon_pack = "fab"[[params.social]]
+  [[params.social]]
         url   = "https://t.me/AmazonTrackersBot"
         icon  = "telegram" # icon name without the 'fa-'
         icon_pack = "fab"
