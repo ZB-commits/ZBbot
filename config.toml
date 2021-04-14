@@ -77,8 +77,6 @@ contentDir = "content/en"
 
 title = "Introduction"
 
-  [languages.en.params]
-  description = "Website Description"
 
 [languages.es]
 languageName = "Español"
