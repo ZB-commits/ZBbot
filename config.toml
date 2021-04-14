@@ -12,7 +12,7 @@ favicon                      = "/img/logo.ico"
 showRSSButton = false
 fadeIn = true
 fadeInIndex = false
-dateFormat = "Jan 2, 2006"
+
 
 
   [params.home]
