@@ -13,7 +13,7 @@ showRSSButton = false
 fadeIn = true
 fadeInIndex = false
 dateFormat = "Jan 2, 2006"
-email = "youremail@email.com"
+
 
   [params.home]
   introHeight = "fullheight"
