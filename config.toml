@@ -22,9 +22,7 @@ dateFormat = "Jan 2, 2006"
   timeZone = "America/Los_Angeles"
   timeFormat = "en-US"
 
- 
-  [params.share]
-  telegram = true
+
 
 
 
