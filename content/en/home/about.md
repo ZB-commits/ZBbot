@@ -1,6 +1,6 @@
 ---
-title: "About"
-image: "profile.jpg"
+title: What can you do?
+image: profile.jpg
 weight: 8
 ---
 
