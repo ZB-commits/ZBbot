@@ -1,7 +1,7 @@
 ---
 title: What can you do?
 image: profile.jpg
-weight: 8
+
 ---
 
 This is **Introduction**, a minimalist website theme made for [Hugo](https://gohugo.io).
