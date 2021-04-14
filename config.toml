@@ -7,7 +7,8 @@ title = "Amazon Trackers Bot"
 
 [params]
 themeStyle = "auto"
-favicon = "/img/fav.ico"
+email                        = "zbspace@gmail.com"  
+favicon                      = "/img/logo.ico"  
 showRSSButton = false
 fadeIn = true
 fadeInIndex = false
