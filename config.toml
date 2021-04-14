@@ -22,9 +22,26 @@ dateFormat = "Jan 2, 2006"
   timeZone = "America/Los_Angeles"
   timeFormat = "en-US"
 
+ 
+  [params.share]
+  twitter = true
+  facebook = true
+  pinterest = true
 
+  [[params.social]]
+  url = "https://twitter.com/"
+  icon = "twitter"
+  icon_pack = "fab"
 
+  [[params.social]]
+  url = "https://facebook.com/"
+  icon = "facebook-f"
+  icon_pack = "fab"
 
+  [[params.social]]
+  url = "https://linkedin.com/"
+  icon = "linkedin-in"
+  icon_pack = "fab"
 
   [[params.social]]
   url = "mailto:youremail@email.com"
