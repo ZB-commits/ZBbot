@@ -49,9 +49,10 @@ dateFormat = "Jan 2, 2006"
   icon_pack = "fas"
 
   [[params.social]]
-        url   = "https://t.me/AmazonTrackersBot"
-        icon  = "telegram" # icon name without the 'fa-'
-        icon_pack = "fab"
+  url = "https://mastodon.social/"
+  icon = "mastodon"
+  icon_pack = "fab"
+  html_attributes = 'rel="me"'
 
 [taxonomies]
 tag = "tags"
