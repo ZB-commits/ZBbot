@@ -7,23 +7,3 @@
   color: #0645ad;
 }
 
-a::selection {
-  background: rgba(255, 255, 0, 0.3);
-  color: #0645ad;
-}
-
-p {
-  margin: 1em 0;
-}
-
-img {
-  max-width: 100%;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-weight: normal;
