@@ -12,7 +12,7 @@ favicon                      = "/img/logo.ico"
 showRSSButton = false
 fadeIn = true
 fadeInIndex = false
-
+customCSS                  = ["foo.css"]
 
 
   [params.home]
